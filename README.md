@@ -1,9 +1,10 @@
 
 
 ## Pages Introduction
-![](https://github.com/Blair-0404/test/blob/master/src/main1.gif)
-![](https://github.com/Blair-0404/test/blob/master/src/main2.gif)
-
+- ![](https://github.com/Blair-0404/test/blob/master/src/main1.gif)
+*** 
+- ![](https://github.com/Blair-0404/test/blob/master/src/main2.gif)
+*** 
 ### MainPage
 - 배너 / 카테고리 아이템
 - 유저를 위한 상품을 추천
